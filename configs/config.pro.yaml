@@ -1,0 +1,25 @@
+appname: thichtienganh-quiz-be
+
+port: "5555"
+secretkeysentry:
+projectsentry:
+
+sql:
+  name:
+  host:
+  port:
+  username:
+  password:
+  database:
+
+redis:
+  name:
+  host:
+  port:
+  password:
+  redisdb:
+  keyprefix:
+
+jwt:
+  secretkey:
+  secretexpireminutes:
